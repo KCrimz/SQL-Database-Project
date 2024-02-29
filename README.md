@@ -41,6 +41,6 @@ Type in the command sudo systemctl status mysql to check the program is running 
 <img src="https://imgur.com/y9i4K3S.gif"/>
 
 <p> Or if you simply wish to edit one value in a row use" update (table name) set (specific column) = (paramaters) for ex: set sauce = ranch where name = "Ark";
-That will change so now Ark wants ranch instead of tomato sauce. Will add more Later to this project in terms of Creating relational databases and Imnporting data into a BI for better data analysis </p>
+That will change so now Ark wants ranch instead of tomato sauce. Will add more Later to this project in terms of Creating relational databases and Imnporting data into a BI for better data analysis. Also Boolean values (alter (what you want to alter) add (name) (data type); 1= true 0 = false and how to organize selected data (asc,Decs etc..) </p>
 
 TO BE CONTINUED!!
