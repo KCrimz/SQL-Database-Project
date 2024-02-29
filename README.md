@@ -19,7 +19,7 @@ In this project we are going to Build an SQL database from scratch and write Cus
 <h2>Skills:</h2>    
 
 - <b>SQL database design and creation</b>
-- <b>Relational databases with Normalization</b>
+- <b>Relational databases</b>
 - <b>Import into BI tool for data analysis and visual representation</b>
 
 - <b>Download Ubuntu: https://ubuntu.com/download/desktop </b>
