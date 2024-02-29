@@ -7,12 +7,13 @@ In this project we are going to Build an SQL database from scratch and write Cus
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Database SQL</b> 
+- <b>Database SQL</b>
+- <b>Oracle VM virtualbox</b>
 - <b>BI Tool</b>
 
 <h2>Environments Used</h2>
 
-- <b>Windows 10</b>
+- <b>Ubuntu linux latest Version</b>
 - <b></b>
 
 <h2>Skills:</h2>    
@@ -20,3 +21,6 @@ In this project we are going to Build an SQL database from scratch and write Cus
 - <b>SQL database design and creation</b>
 - <b>Relational databases with Normalization</b>
 - <b>Import into BI tool for data analysis and visual representation</b>
+
+- <b>Download Ubuntu: https://ubuntu.com/download/desktop </b>
+- <b>Download Oracle VM box: https://www.virtualbox.org/wiki/Downloads </b>
