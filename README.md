@@ -35,3 +35,6 @@ Type in the command sudo systemctl status mysql to check the program is running 
 <p> Now to create a database simply " create database (Name_here);". SHow databases; to see that is was created and enter into that database to make changes by Typing "Use (databse name);"
 "create Table (table_name) (" to you guessed it.. create a table within this database HA. We use "(" at the end bc we need to create columns and rows for the creation. Otherwise it wont create the table. I HIGHLY recommend pre planning out your Database layouts and formats in something like excel before hand so you know what type of tables, rows, and columns of information you will be creating. This way it will save you time and a headache later on. PLANNING is one of the most essential ideals in creating a database that is sustainable long term. Here is an example of setting up columns and their datatypes for each section!</p>
 <img src="https://imgur.com/yH4xRNN.gif"/>
+
+<p>THis shows the columns name the type of data along with the allowable amount of char () for each to more develop our schema. Now we get to work on creating rows HELL YEAHH :) This shows how we would insert into the specific table with the correlating data and then how we would view that data in the table VIA a Select statement. </p>
+<img src="https://imgur.com/8GaDx2j.gif"/>
