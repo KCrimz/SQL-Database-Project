@@ -31,3 +31,7 @@ In this project we are going to Build an SQL database from scratch and write Cus
 Type in the command sudo systemctl status mysql to check the program is running properly."sudo mysql" and you are in to start making a database</p>
 <img src="https://imgur.com/XO9YLLt.gif"/>
 <p> More commonly not on a local server you will see something more along the lines of "mysql -u(username) -h(host/remote server) -p(port) -p(password)"</p>
+
+<p> Now to create a database simply " create database (Name_here);". SHow databases; to see that is was created and enter into that database to make changes by Typing "Use (databse name);"
+"create Table (table_name) (" to you guessed it.. create a table within this database HA. We use "(" at the end bc we need to create columns and rows for the creation. Otherwise it wont create the table. I HIGHLY recommend pre planning out your Database layouts and formats in something like excel before hand so you know what type of tables, rows, and columns of information you will be creating. This way it will save you time and a headache later on. PLANNING is one of the most essential ideals in creating a database that is sustainable long term. Here is an example of setting up columns and their datatypes for each section!</p>
+<img src="https://imgur.com/yH4xRNN.gif"/>
