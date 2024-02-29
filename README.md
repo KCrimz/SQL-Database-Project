@@ -1,7 +1,7 @@
 <h1>SQL Database project </h1>
 
 <h2>Description</h2>
-In this project we are going to Build an SQL database from scratch and write Custom SQL queries. Then we are going to connect the Database to a BI tool to build interactactive dashboards!
+In this project we are going to Build an SQL database from scratch and write Custom SQL queries. Then we are going to connect the Database to a BI tool to build interactactive dashboards! This will help with data analysis and visual representation.
 <br />
 
 
