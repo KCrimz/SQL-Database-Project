@@ -1,7 +1,7 @@
 <h1>SQL Database project </h1>
 
 <h2>Description</h2>
-In this project we are going to Build an SQL database from scratch and write Custom SQL queries. Then we are going to connect the Database to a BI tool to build interactactive dashboards! This will help with data analysis and visual representation. Mainly for a pizza shop bc its one of my addictions HA
+In this project we are going to Build an SQL database from scratch and write Custom SQL queries.  Mainly for a pizza shop bc its one of my addictions HA
 <br />
 
 
@@ -9,7 +9,6 @@ In this project we are going to Build an SQL database from scratch and write Cus
 
 - <b>Database mySQL</b>
 - <b>Oracle VM virtualbox</b>
-- <b>BI Tool</b>
 
 <h2>Environments Used</h2>
 
@@ -20,7 +19,6 @@ In this project we are going to Build an SQL database from scratch and write Cus
 
 - <b>SQL database design and creation</b>
 - <b>Relational databases</b>
-- <b>Import into BI tool for data analysis and visual representation</b>
 
 - <b>Download Ubuntu: https://ubuntu.com/download/desktop </b>
 - <b>Download Oracle VM box: https://www.virtualbox.org/wiki/Downloads </b>
@@ -38,3 +36,6 @@ Type in the command sudo systemctl status mysql to check the program is running 
 
 <p>THis shows the columns name the type of data along with the allowable amount of char () for each to more develop our schema. Now we get to work on creating rows HELL YEAHH :) This shows how we would insert into the specific table with the correlating data and then how we would view that data in the table VIA a Select statement. </p>
 <img src="https://imgur.com/8GaDx2j.gif"/>
+
+<p>Should you need to delete anything from a table you have made simply use "delete from (table name) where (parameters) ex: where id = 4;</p>
+<img src="https://imgur.com/y9i4K3S.gif"/>
