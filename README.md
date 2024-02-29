@@ -24,3 +24,9 @@ In this project we are going to Build an SQL database from scratch and write Cus
 
 - <b>Download Ubuntu: https://ubuntu.com/download/desktop </b>
 - <b>Download Oracle VM box: https://www.virtualbox.org/wiki/Downloads </b>
+
+<h2>Walk Through:</h2>
+
+<p>FIrst Launch your Ubuntu VM and launch your Terminal to update if needed "sudo apt update" and install mysql "sudo apt install mysql-server -y" After the install in completed 
+Type in the command sudo systemctl status mysql to check the program is running properly."sudo mysql" and you are in to start making a database</p>
+<img src="https://imgur.com/XO9YLLt.gif"/>
