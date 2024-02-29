@@ -30,3 +30,4 @@ In this project we are going to Build an SQL database from scratch and write Cus
 <p>FIrst Launch your Ubuntu VM and launch your Terminal to update if needed "sudo apt update" and install mysql "sudo apt install mysql-server -y" After the install in completed 
 Type in the command sudo systemctl status mysql to check the program is running properly."sudo mysql" and you are in to start making a database</p>
 <img src="https://imgur.com/XO9YLLt.gif"/>
+<p> More commonly not on a local server you will see something more along the lines of "mysql -u(username) -h(host/remote server) -p(port) -p(password)</p>
