@@ -7,7 +7,7 @@ In this project we are going to Build an SQL database from scratch and write Cus
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Database SQL</b>
+- <b>Database mySQL</b>
 - <b>Oracle VM virtualbox</b>
 - <b>BI Tool</b>
 
