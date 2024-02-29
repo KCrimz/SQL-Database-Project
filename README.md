@@ -39,3 +39,8 @@ Type in the command sudo systemctl status mysql to check the program is running 
 
 <p>Should you need to delete anything from a table you have made simply use "delete from (table name) where (parameters) ex: where id = 4;</p>
 <img src="https://imgur.com/y9i4K3S.gif"/>
+
+<p> Or if you simply wish to edit one value in a row use" update (table name) set (specific column) = (paramaters) for ex: set sauce = ranch where name = "Ark";
+That will change so now Ark wants ranch instead of tomato sauce. Will add more Later to this project in terms of Creating relational databases and Imnporting data into a BI for better data analysis </p>
+
+TO BE CONTINUED!!
