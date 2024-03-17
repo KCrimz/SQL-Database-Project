@@ -1,4 +1,4 @@
-<h1>SQL Database project </h1>
+<h1>SQL Database learning </h1>
 
 <h2>Description</h2>
 In this project we are going to Build an SQL database from scratch and write Custom SQL queries.  Mainly for a pizza shop bc its one of my addictions HA
