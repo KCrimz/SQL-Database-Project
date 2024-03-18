@@ -13,7 +13,6 @@ In this project we are going to Build an SQL database from scratch and write Cus
 <h2>Environments Used</h2>
 
 - <b>Ubuntu linux latest Version</b>
-- <b></b>
 
 <h2>Skills:</h2>    
 
